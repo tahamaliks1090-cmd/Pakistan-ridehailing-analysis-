@@ -96,8 +96,8 @@ Interactive dashboard with 3 pages:
 
 **Business Analytics Student**
 - University: FAST University Karachi
-- Contact: [Your Email]
-- LinkedIn: [Your LinkedIn URL]
+- Contact: tahamaliks1090@gmail.com
+- LinkedIn: https://www.linkedin.com/in/taha-malik-082b71283?utm_source=share_via&utm_content=profile&utm_medium=member_ios
 
 ---
 
